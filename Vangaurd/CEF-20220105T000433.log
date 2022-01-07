@@ -1,6 +1,0 @@
-[0104/190433.184:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
-[0104/190433.184:ERROR:cache_util.cc(139)] Unable to move cache folder GPUCache to old_GPUCache_000
-[0104/190433.185:ERROR:disk_cache.cc(184)] Unable to create cache
-[0104/190433.185:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
-[0104/190433.394:ERROR:browser_host_impl.cc(1794)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: #0
-[0104/190433.395:ERROR:browser_host_impl.cc(1794)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: #1
