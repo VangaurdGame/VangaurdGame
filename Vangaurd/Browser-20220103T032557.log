@@ -1,0 +1,70 @@
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - setting background color 'ff15171e'.
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - UserAgent: BlizzardBrowser/5.2.1.485 Chrome/83.0.4103.106 SimpleCheckout/5.2.10/FORE
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] Create invoked. winSize: {0, 0}; 570; 548
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::backgroundColor: {r:21, g:23, b:30, a:255}
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::backgroundColor: {r:21, g:23, b:30, a:255}
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::enableHardwareAcceleration: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::enableHardwareAcceleration: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::enablePlugins: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::enableLocalStorage: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::showCrashDialog: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::enablePlugins: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::showNativeScrollBar: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::showCrashDialog: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::showNativeScrollBar: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] BrowserConfig::userAgentToken: "SimpleCheckout/5.2.10/FORE"
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::userAgentToken: "SimpleCheckout/5.2.10/FORE"
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] BrowserConfig::webkitLocale: 2
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {349c} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:57 {396c} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {349c} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {349c} [INFO] - first page load completed
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - first page load completed
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {349c} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:25:58 {396c} [INFO] - [BrowserProcessHandler] OnCursorChange type:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnLoadStart type:1073741824 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {396c} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:00 {349c} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {396c} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {396c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {396c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {396c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {349c} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {349c} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {349c} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:01 {349c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {396c} [INFO] - [BrowserProcessHandler] OnLoadStart type:1073741824 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {396c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {349c} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {349c} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {349c} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:02 {349c} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {349c} [INFO] - [BrowserProcessHandler] OnCursorChange type:0
+[ERROR]-[BNL_Scene]: 2022-01-02T22:26:03 {396c} [ERROR] - failed to fetch process block size from shmem: SHMEM_NOT_FOUND
+[ERROR]-[BNL_Scene]: 2022-01-02T22:26:03 {396c} [ERROR] - failed to read target process block for pid: '15104'
+[ERROR]-[BNL_Scene]: 2022-01-02T22:26:03 {396c} [ERROR] - Failed to write message to shared memory.
+[INFO]-[BNL_Scene]: 2022-01-02T22:26:03 {396c} [INFO] - received shutdown message from client.
+[INFO]-[BNL_Scene]: 2022-01-02T22:26:03 {349c} [INFO] - received shutdown message from client.
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {396c} [INFO] - [BrowserProcessHandler] Shutdown invoked
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {396c} [INFO] - [BrowserProcessHandler] OnLoadError frame:17179869188 errorCode:-3 errorText:ERR_ABORTED
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {396c} [INFO] - [BrowserProcessHandler] OnBeforeClose
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {349c} [INFO] - [BrowserProcessHandler] Shutdown invoked
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:03 {349c} [INFO] - [BrowserProcessHandler] OnBeforeClose

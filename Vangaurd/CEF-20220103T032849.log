@@ -1,0 +1,9 @@
+[0102/222849.216:ERROR:backend_impl.cc(1414)] Unable to map Index file
+[0102/222849.217:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[0102/222849.218:ERROR:cache_util.cc(139)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0102/222849.218:ERROR:disk_cache.cc(184)] Unable to create cache
+[0102/222849.218:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0102/222849.455:ERROR:browser_host_impl.cc(1794)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: #0
+[0102/222849.456:ERROR:browser_host_impl.cc(1794)] Invalid URL passed to CefBrowserHostImpl::LoadMainFrameURL: #1
+[0102/222857.075:WARNING:browser_info.cc(270)] Returning a speculative frame for frame id 21474836486
+[0102/222919.384:WARNING:browser_info.cc(270)] Returning a speculative frame for frame id 25769803782

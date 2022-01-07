@@ -1,0 +1,79 @@
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - setting background color 'ff15171e'.
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - UserAgent: BlizzardBrowser/5.2.1.485 Chrome/83.0.4103.106 SimpleCheckout/5.2.10/FORE
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - UserAgent: BlizzardBrowser/5.2.1.485 Chrome/83.0.4103.106 SimpleCheckout/5.2.10/FORE
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] Create invoked. winSize: {0, 0}; 570; 100
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] Create invoked. winSize: {0, 0}; 570; 548
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::backgroundColor: {r:21, g:23, b:30, a:255}
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::backgroundColor: {r:21, g:23, b:30, a:255}
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::blizzardErrorPath: ""
+tion: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::enableHardwareAcceleration: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::enablePlugins: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::enableLocalStorage: true
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::showCrashDialog: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::enablePlugins: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::showNativeScrollBar: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::showCrashDialog: false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::startUrl: "about:blank"
+e
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::startUrl: "about:blank"
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::userAgentToken: "SimpleCheckout/5.2.10/FORE"
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] BrowserConfig::webkitLocale: 2
+"SimpleCheckout/5.2.10/FORE"
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] BrowserConfig::webkitLocale: 2
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2994} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:08 {2e70} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - first page load completed
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - first page load completed
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:false goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2e70} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:09 {2994} [INFO] - [BrowserProcessHandler] OnCursorChange type:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:10 {2994} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:10 {2994} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:10 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:10 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:10 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:11 {2994} [INFO] - [BrowserProcessHandler] OnLoadStart type:1073741824 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:11 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:11 {2e70} [INFO] - [BrowserProcessHandler] OnLoadStart type:33554433 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:11 {2994} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:11 {2994} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2e70} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2e70} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2e70} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnLoadEnd frame:17179869185
+:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:12 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2e70} [INFO] - [BrowserProcessHandler] OnLoadStart type:1073741824 frame:17179869185
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2e70} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:true goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnTakeFocus source:0
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnGotFocus
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnLoadingStateChange loading:false goBack:true goForward:false
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnTitleChange
+[INFO]-[BNL_Scene]: 2022-01-02T22:26:13 {2e70} [INFO] - received shutdown message from client.
+[INFO]-[BNL_Scene]: 2022-01-02T22:26:13 {2994} [INFO] - received shutdown message from client.
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2e70} [INFO] - [BrowserProcessHandler] Shutdown invoked
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2e70} [INFO] - [BrowserProcessHandler] OnLoadError frame:17179869188 errorCode:-3 errorText:ERR_ABORTED
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2e70} [INFO] - [BrowserProcessHandler] OnBeforeClose
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] Shutdown invoked
+[INFO]-[BNL_Browser]: 2022-01-02T22:26:13 {2994} [INFO] - [BrowserProcessHandler] OnBeforeClose
